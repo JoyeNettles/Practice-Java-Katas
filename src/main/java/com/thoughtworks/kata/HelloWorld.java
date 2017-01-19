@@ -1,0 +1,9 @@
+package com.thoughtworks.kata;
+
+
+public class HelloWorld {
+
+    public String hello() {
+        return "Hello";
+    }
+}

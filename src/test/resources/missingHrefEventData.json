@@ -1,0 +1,10 @@
+{
+  "href": "",
+  "eventType": "OFFERING.NOSALE",
+  "body":
+  {
+    "customerAccountNumber": "5AA1229",
+    "consignmentID": "81470",
+    "auction": "auction"
+  }
+}
