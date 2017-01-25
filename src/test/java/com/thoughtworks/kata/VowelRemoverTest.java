@@ -47,4 +47,5 @@ public class VowelRemoverTest {
         final String result = vowelRemover.removeVowels(word);
         assertThat(result, is(word));
     }
+
 }
